@@ -1,0 +1,15 @@
+<testExecutions version="1">
+  <file path="Firefox_73_0_0_(Mac_OS_X_10_13_0).javaScript">
+    <testCase name="javaScript should pass" duration="1"/>
+  </file>
+  <file path="Firefox_73_0_0_(Mac_OS_X_10_13_0).typescript">
+    <testCase name="typescript should pass" duration="1"/>
+    <testCase name="typescript should pass" duration="1"/>
+  </file>
+  <file path="Firefox_73_0_0_(Mac_OS_X_10_13_0).chai">
+    <testCase name="chai should pass" duration="1"/>
+  </file>
+  <file path="Firefox_73_0_0_(Mac_OS_X_10_13_0).sinon">
+    <testCase name="sinon should catch a event when fired" duration="1"/>
+  </file>
+</testExecutions>

@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<testExecutions version='1'>
+    <file path='test/typescript.test.ts'>
+        <testCase name='typescript#should pass' duration='0'/>
+        <testCase name='typescript#should pass' duration='1'/>
+        <testCase name='chai#should pass' duration='0'/>
+        <testCase name='sinon#should catch a event when fired' duration='1'/>
+    </file>
+</testExecutions>

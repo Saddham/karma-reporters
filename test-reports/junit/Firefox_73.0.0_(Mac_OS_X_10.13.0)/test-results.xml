@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<testsuite name="Firefox 73.0.0 (Mac OS X 10.13.0)" package="" timestamp="2020-03-26T09:55:32" id="0" hostname="MREMF663DADC" tests="5" errors="0" failures="0" time="0.003">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:73.0) Gecko/20100101 Firefox/73.0"/>
+  </properties>
+  <testcase name="javaScript should pass" time="0.001" classname="Firefox_73_0_0_(Mac_OS_X_10_13_0).javaScript"/>
+  <testcase name="typescript should pass" time="0" classname="Firefox_73_0_0_(Mac_OS_X_10_13_0).typescript"/>
+  <testcase name="typescript should pass" time="0.001" classname="Firefox_73_0_0_(Mac_OS_X_10_13_0).typescript"/>
+  <testcase name="chai should pass" time="0" classname="Firefox_73_0_0_(Mac_OS_X_10_13_0).chai"/>
+  <testcase name="sinon should catch a event when fired" time="0.001" classname="Firefox_73_0_0_(Mac_OS_X_10_13_0).sinon"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>

@@ -1,0 +1,15 @@
+<testExecutions version="1">
+  <file path="HeadlessChrome_80_0_3987_(Mac_OS_X_10_13_6).javaScript">
+    <testCase name="javaScript should pass" duration="1"/>
+  </file>
+  <file path="HeadlessChrome_80_0_3987_(Mac_OS_X_10_13_6).typescript">
+    <testCase name="typescript should pass" duration="1"/>
+    <testCase name="typescript should pass" duration="1"/>
+  </file>
+  <file path="HeadlessChrome_80_0_3987_(Mac_OS_X_10_13_6).chai">
+    <testCase name="chai should pass" duration="1"/>
+  </file>
+  <file path="HeadlessChrome_80_0_3987_(Mac_OS_X_10_13_6).sinon">
+    <testCase name="sinon should catch a event when fired" duration="1"/>
+  </file>
+</testExecutions>
